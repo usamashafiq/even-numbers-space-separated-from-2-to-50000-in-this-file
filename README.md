@@ -1,0 +1,2 @@
+# even-numbers-space-separated-from-2-to-50000-in-this-file
+Open “series.txt” file in write mode. Write even numbers space separated from 2 to 50000 in this file. Properly check that file is successfully opened for writing or not. Show message on the screen when all the numbers have been written. • Open the above written file in read mode. Read all data in the file and display every second number on screen
